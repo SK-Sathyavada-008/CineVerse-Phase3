@@ -1,0 +1,30 @@
+# CineVerse Movie Database
+# Format: ID | Title | Genre | Language | AgeRating | Year | OTTPlatform | BaseRating | Views
+# -----------------------------------------------------------------------
+1 | 20th Century Girl | Romance | Korean | PG-13 | 2022 | Netflix | 4.3 | 4200
+0 | 3 Idiots | Comedy | Hindi | U/A | 2009 | Netflix | 4.8 | 5000
+2 | A Silent Voice | Animation | Japanese | PG-13 | 2016 | Netflix | 4.4 | 3800
+3 | Aapadhbandhavudu | Drama | Telugu | U/A | 1992 | SonyLIV | 4.1 | 1200
+4 | Annaya | Drama | Telugu | U/A | 2006 | Aha | 3.8 | 870
+5 | Bangalore Days | Comedy | Malayalam | U | 2014 | Disney+ Hotstar | 4.2 | 2900
+6 | Brahma Yugam | Mystery | Telugu | U/A | 2024 | SonyLIV | 4.3 | 5450
+7 | Brave Citizen | Action | Korean | PG-13 | 2023 | Prime Video | 4.1 | 2100
+8 | Chhava | Drama | Marathi | U/A | 2025 | Netflix | 4.5 | 6300
+9 | Chhichhore | Comedy | Hindi | U/A | 2019 | Disney+ Hotstar | 4.6 | 2800
+10 | Dil Bechara | Drama | Hindi | U/A | 2020 | Disney+ Hotstar | 4.5 | 3500
+11 | Gang Leader | Action | Telugu | U/A | 2019 | Netflix | 3.9 | 1750
+26 | Harry Potter | Fantasy | English | PG-13 | 2001 | Netflix | 4.0 | 0
+12 | Hi Nanna | Romance | Telugu | U/A | 2023 | Netflix | 4.4 | 1500
+13 | Interstellar | Adventure | English | PG-13 | 2014 | Netflix | 4.6 | 8700
+14 | Kedarnath | Romance | Hindi | U/A | 2018 | ZEE5 | 3.3 | 1480
+15 | Krishna Aur Kans | Mythology | Hindi | U | 2012 | Disney+ Hotstar | 4.8 | 8100
+16 | Maari | Action | Tamil | U/A | 2015 | Sun NXT | 3.8 | 2340
+17 | Mahavatar Narasimha | Mythology | Hindi | U/A | 2024 | Netflix | 4.2 | 3100
+18 | Raja | Romance | Telugu | U/A | 2003 | Aha | 4.0 | 1650
+19 | Rudraveena | Drama | Telugu | U | 1988 | Aha | 4.3 | 980
+20 | Sairat | Romance | Marathi | U/A | 2016 | Netflix | 4.6 | 5200
+21 | Tangled | Animation | English | PG | 2010 | Disney+ | 3.9 | 4800
+22 | Teddy | Adventure | Tamil | U/A | 2021 | Disney+ Hotstar | 3.5 | 1340
+23 | The Fault in Our Stars | Romance | English | PG-13 | 2014 | Disney+ Hotstar | 4.2 | 6100
+24 | Violet Evergarden | Animation | Japanese | PG-13 | 2018 | Netflix | 4.5 | 2700
+25 | Your Name | Animation | Japanese | PG | 2016 | Netflix | 4.4 | 5900

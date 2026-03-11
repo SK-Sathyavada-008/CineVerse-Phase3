@@ -1,0 +1,10 @@
+# CineVerse User Database
+# Format: Username | PreferredGenre | PreferredLanguage
+# -----------------------------------------------------------------------
+# NOTE: These 6 default users are permanent and will never be deleted
+sk | Mythology | Hindi
+Bhavya | Drama | Telugu
+Kruthika | Animation | Japanese
+Arnavi | Drama | Korean
+Gayathri | Romance | English
+Riddhi | Comedy | Hindiveeresh | action | hindi
